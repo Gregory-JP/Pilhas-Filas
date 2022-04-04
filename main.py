@@ -128,11 +128,11 @@ if __name__ == '__main__':
     queue.push('carro')
     queue.push('xis')
 
-    queue
+    print(queue)
 
     queue.sort_queue()
 
-    queue
+    print(queue)
 
     # valores numericos
     queue2 = Queue()
